@@ -1,5 +1,8 @@
 # World Robotic Olympiad 2021 Future Engineers
 
+## Our YouTube Video
+    https://youtu.be/UyoNl7fKj5E
+
 ## Introduction
 
 The pandemic has accelerated the introduction of digital technologies in all spheres of life. 41% of company executives from 45 countries are preparing to work in a new post-crisis reality, investing in accelerating business automation.
@@ -57,6 +60,7 @@ To convert the value expressed in Nm to kg·cm, it should be taken into account 
 2) To calculate the maximum power of the engines, we will need a speed that is expressed in revolutions per minute
 
 
+#####
     V=60ω/2πr (rpm)
 #####
     V=(60*1)/(2π*0.13)=73.46 (rpm)
@@ -265,3 +269,4 @@ First of all, the software algorithm of the car is based on its mechanical struc
 First of all, I read the regulations of the competition. Next, for the constant movement of the car, you need to choose beacons on which we can move during the attempt. It is also worth taking care of the detour of the signs by tracking them in the image. And I also solved the problem of counting the turns taken, counting the turning lanes. After writing the detailed code, I had to agree on the basic controls of the vehicle. This was realised in the precise rotation of the servo control of the front axle of the machine.
 
 >4.2.1 schematic diagram
+>https://github.com/caxapok1python/wro_fe_2021/blob/main/Schematic.pdf
